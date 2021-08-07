@@ -40,11 +40,6 @@ const questions = [
         type: "input",
         message: "Testings: ",
         name: "test"
-    },
-    {
-        type: "input",
-        message: "Questions",
-        name:"questions"
     }
 ];
 
