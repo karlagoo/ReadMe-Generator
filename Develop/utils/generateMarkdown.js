@@ -34,11 +34,11 @@ ${data.description}
 
 ## Table of Contents 📄	
 
-* [Installation](## Installation)
-* [Usage](## Usage)
-* [Contributing] (## Contributing)
-* [Tests] (## Test)
-* [Questions] (## Questions)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contributing](#Contributing)
+* [Tests](#Test)
+* [Questions](#Questions)
 
 ## Installation
 ${data.installation}
