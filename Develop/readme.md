@@ -1,22 +1,22 @@
 # ReadMe Generator
   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 ## Description 📝
-using node js based tool to generate a readme markdown
+Using a node js based tool, users can create a readme markdown
 
 ## Table of Contents 📄	
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Contributing](#Contributing)
-* [Tests](#Test)
+* [Tests](#Tests)
 * [Questions](#Questions)
 
 ## Installation
 ```
-npm i
+npm i 
 ```
 
 ## Usage 
-to create a readme
+Generating a readme
 
 ## Contributing
 ```
@@ -26,9 +26,9 @@ Karla Goo
 ## Tests
 npm run test
 
-## Questions 🌐	
-If you have any additional questions, do not hesitate to reach out:
+## Questions
+If you have any additional questions, do not hesitate to reach out by clicking on either link:
 
-**[GitHub](wwww.https://github.com/karlagoo)**
+**[GitHub](https://github.com/karlagoo)**
 
-**[Email](karla_goo@yahoo.com)**
+**[Email](mailto:karla_goo@yahoo.com)**

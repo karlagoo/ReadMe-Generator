@@ -28,7 +28,7 @@ ${data.description}
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Contributing](#Contributing)
-* [Tests](#Test)
+* [Tests](#Tests)
 * [Questions](#Questions)
 
 ## Installation
@@ -47,12 +47,12 @@ ${data.contributors}
 ## Tests
 ${data.test}
 
-## Questions 🌐	
+## Questions
 If you have any additional questions, do not hesitate to reach out by clicking on either link:
 
-**[GitHub](wwww.https://github.com/${data.github})**
+**[GitHub](https://github.com/${data.github})**
 
-**[Email](${data.email})**
+**[Email](mailto:${data.email})**
 `;
 }
 
