@@ -47,7 +47,9 @@ ${data.installation}
 ${data.usage}
 
 ## Contributing
+\`\`\`
 ${data.contributors}
+\`\`\`
 
 ## Tests
 ${data.test}
@@ -55,8 +57,8 @@ ${data.test}
 ## Questions
 If you have any additional questions, do not hesitate to reach out:
 
-**GitHub: wwww.https://github.com/karlagoo**
-**Email: karla_goo@yahoo.com**
+**[GitHub](wwww.https://github.com/${data.github})**
+**[Email](${data.email})**
 
 
 
